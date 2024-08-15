@@ -54,10 +54,4 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
-###
 
-<div align="right">
-  <img height="100" src="https://i.pinimg.com/originals/43/0b/2c/430b2c5e655be9810b640c1141fd120e.gif"  />
-</div>
-
-###
