@@ -1,20 +1,15 @@
-<h1 align="left">BlUhOl</h1>
+# BlUhOl
 
-###
 
-<p align="left">Front-end dev and ordinary person. Also sucks at Back-end.</p>
+Front-end dev and ordinary person. Also sucks at Back-end.
 
-###
+Also Video Editor, Graphic Designer, 3D Model/Enviroment and Motion Graphics.
 
-<p align="left">Also Video Editor, Graphic Designer, 3D Enviromental and Motion Graphics.</p>
+Indonesian/English
 
-###
-
-<p align="left">Indonesian/English</p>
-
-###
 
 <div align="left">
+<h3>Also find me on:</h3>
   <a href="https://twitter.com/bluhol_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -26,9 +21,9 @@
   </a>
 </div>
 
-###
-
 <div align="left">
+<h3>What i've learned:</h3><i>doesn't mean im good at it :'</i>
+<div>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -52,6 +47,10 @@
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  </div>
 </div>
 
-
+<div>
+<h4>My script collection:</h4>
+<a href="https://gist.github.com/BlUhOl" target="_blank">BlUhOl's Gist</a>
+</div>
