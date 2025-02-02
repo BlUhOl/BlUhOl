@@ -22,7 +22,7 @@ Indonesian/English
 </div>
 
 <div align="left">
-<h3>What i've learned:</h3><i>doesn't mean im good at it :'</i>
+<h3>What i've learned:</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
