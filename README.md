@@ -8,7 +8,7 @@ Indonesian/English
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,cs,nodejs,react,next,nuxt,vue,astro,alpinejs,tailwind,threejs,ae,ai,ps,pr,blender,unity,figma&theme=dark)
 
 ## Find me on:
-[YouTube](https://www.youtube.com/c/BlUhOl) - [Twitter](https://twitter.com/bluhol_) [Instagram](https://www.instagram.com/bluhol_/)
+[YouTube](https://www.youtube.com/c/BlUhOl) - [Twitter](https://twitter.com/bluhol_) - [Instagram](https://www.instagram.com/bluhol_/)
 
 ## My script collection:
 <a href="https://gist.github.com/BlUhOl" target="_blank">BlUhOl's Gist</a>
