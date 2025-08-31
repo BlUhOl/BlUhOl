@@ -1,7 +1,7 @@
 # BlUhOl
 
 
-Front-end dev and ordinary person. Also sucks at Back-end.
+Front-end dev web and ordinary person.
 
 Also Video Editor, Graphic Designer, 3D Model/Enviroment and Motion Graphics.
 
