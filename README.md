@@ -1,6 +1,6 @@
 # BlUhOl
 
-Hi! I’m BlUhOl from Indonesia and graduated with a Bachelor’s degree in Computer Science (Information Systems). I am interested in front-end web development, video editing, 3D, and motion graphics. I enjoy creating projects that are both functional and visually appealing.
+Hi! I’m BlUhOl from Indonesia and graduated with a Bachelor’s degree in Computer Science (Information Systems). I am interested in front-end web development, video editing, 3D, and motion graphics. I enjoy creating projects that can be functional and visually appealing.
 
 Indonesian/English
 
